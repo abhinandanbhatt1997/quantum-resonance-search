@@ -1,4 +1,5 @@
-⚛️ Quantum Resonance Search (QRS)
+Quantum Resonance Search (QRS)
+
 Oracle-free, noise-powered quantum search via resonant dynamics.
 
 Quantum Resonance Search (QRS) is a novel quantum computing framework that discovers hidden solution states by using controlled noise to induce resonance in quantum systems. Unlike Grover’s algorithm, QRS doesn’t require oracles or deep quantum circuits. Instead, it exploits natural Hamiltonian dynamics and decoherence to amplify solutions and detect them via Fourier analysis of system evolution.
@@ -102,7 +103,7 @@ Got ideas for:
 
 Real hardware runs (e.g., IBM Q)?
 
-Scaling beyond 3 qubits?
+Scaling beyond 10 qubits?
 
 Non-diagonal Hamiltonians?
 
